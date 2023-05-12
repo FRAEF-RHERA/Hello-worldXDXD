@@ -18,5 +18,23 @@ void loop(){
   FL.Configuracion_velocidad_max(0,0,50);
   FL.Preparar_Movimiento_Z(2,100);
   FL.Ejecuta_y_espera();
-  char Tecla = Teclado.getKey();                    
+  char Tecla = Teclado.getKey();             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+szifojsmn0pi9n0jmfspczsfz<s       
   if (Tecla != NO_KEY){               
